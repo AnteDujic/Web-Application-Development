@@ -2,7 +2,7 @@
 ### AUTHOR: ANTE DUJIC
 <hr style="border:2px solid gray"> </hr>
 
-This repository contains a project done for Web Application Development module on ATU, Ireland. The project is designing a website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified below.
+This repository contains a project done for Web Application Development module on ATU, Ireland. The aim of the project is designing a website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified below.
 
 #### REQUIREMENTS
 ***
