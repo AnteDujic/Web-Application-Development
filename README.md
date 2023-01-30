@@ -2,7 +2,7 @@
 ### AUTHOR: ANTE DUJIC
 <hr style="border:2px solid gray"> </hr>
 
-This repository is contains a project done for Web Application Development module on ATU, Ireland. The project is designing a website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified below.
+This repository contains a project done for Web Application Development module on ATU, Ireland. The project is designing a website that employs the principles of HTML5, CSS and JavaScript which meets the requirements specified below.
 
 REQUIREMENTS:
 - Allow the customer to enter their login details and have login details validated (via a login screen);
@@ -17,3 +17,10 @@ REQUIREMENTS:
 - One from an array
 - Both visualisations should allow the user to specify display settings, including an option to changecolour, display size and animations.
 - Have a minimum of 3 linked pages
+
+To access the website click on the link below:
+
+| https://antedujic.github.io/art-page.github.io/ | |
+| :-: | :-: | 
+| user | *user* |
+| password | *password* | 
